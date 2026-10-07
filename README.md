@@ -1,6 +1,6 @@
 # MSPE49600-Project02-wfrazer
 
-**Name:** YOUR FULL NAME
+**Name:** WFrazer
 **Course:** MSPE 49600 – Data Analytics for Motorsports, Purdue University, Fall 2026
 
 ## Project 2: Predictive Modeling and Engineering Optimization
